@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Indah",
+    "username": "@indahaja",
+    "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde praesentium amet quia nam tempora exercitationem! Fuga optio quia quasi maxime impedit, vero, natus eum officia molestiae quam ipsum sint tenetur.",
+    "imgProfile": "img.jpg",
+    "likes": 100,
+    "time": 200
+  },
+  {
+    "id": 2,
+    "name": "Randi",
+    "username": "@randi",
+    "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde praesentium amet quia nam tempora exercitationem! Fuga optio quia quasi maxime impedit, vero, natus eum officia molestiae quam ipsum sint tenetur.",
+    "imgProfile": "img.jpg",
+    "likes": 100,
+    "time": 200
+  },
+  {
+    "id": 3,
+    "name": "Toni",
+    "username": "@toni",
+    "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde praesentium amet quia nam tempora exercitationem! Fuga optio quia quasi maxime impedit, vero, natus eum officia molestiae quam ipsum sint tenetur.",
+    "imgProfile": "img.jpg",
+    "likes": 100,
+    "time": 200
+  },
+  {
+    "id": 4,
+    "name": "Test",
+    "username": "@test",
+    "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde praesentium amet quia nam tempora exercitationem! Fuga optio quia quasi maxime impedit, vero, natus eum officia molestiae quam ipsum sint tenetur.",
+    "imgProfile": "img.jpg",
+    "likes": 100,
+    "time": 200
+  },
+  {
+    "id": 5,
+    "name": "Coba",
+    "username": "@cobadulu",
+    "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde praesentium amet quia nam tempora exercitationem! Fuga optio quia quasi maxime impedit, vero, natus eum officia molestiae quam ipsum sint tenetur.",
+    "imgProfile": "img.jpg",
+    "likes": 100,
+    "time": 200
+  },
+  {
+    "id": 6,
+    "name": "april",
+    "username": "@april",
+    "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde praesentium amet quia nam tempora exercitationem! Fuga optio quia quasi maxime impedit, vero, natus eum officia molestiae quam ipsum sint tenetur.",
+    "imgProfile": "img.jpg",
+    "likes": 100,
+    "time": 200
+  },
+  {
+    "id": 7,
+    "name": "mei",
+    "username": "@mei",
+    "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde praesentium amet quia nam tempora exercitationem! Fuga optio quia quasi maxime impedit, vero, natus eum officia molestiae quam ipsum sint tenetur.",
+    "imgProfile": "img.jpg",
+    "likes": 100,
+    "time": 200
+  }
+]
